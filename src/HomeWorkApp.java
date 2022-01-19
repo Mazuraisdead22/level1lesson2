@@ -1,4 +1,5 @@
 public class HomeWorkApp {
+
     public static void main(String[] args) {
         amountInterval(1, 2);
         positiveOrNegative(4);
